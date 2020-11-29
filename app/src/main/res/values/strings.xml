@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pasca UTS 0105</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tvseries">Tv Series</string>
+    <string name="change">Langauge</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="desc">Desc</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="english_radio">English</string>
+    <string name="Indonesia_radio">Indonesia</string>
+    <string name="language_preference">Choose Language Preference :</string>
+    <string name="poster">Poster</string>
+    <string name="save">Save</string>
+    <string name="fav">Favorite</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="search">Search</string>
+    <string name="reminder">Reminder</string>
+    <string name="choose_reminder">Choose Reminder :</string>
+    <string name="release">Release Reminder</string>
+    <string name="daily">Daily Reminder</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name">Daily Entertainment</string>
+    <string name="dailyreminderon">Daily Reminder ON!</string>
+    <string name="dailyreminderoff">Daily Reminder OFF!</string>
+    <string name="releasereminderon">Release Today Reminder ON!</string>
+    <string name="releasereminderoff">Release Today Reminder OFF!</string>
+    <string name="switch_release">switch_release</string>
+    <string name="switch_daily">switch_daily</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">empty</string>
+    <string name="appwidget_text">FAVORITE ENTERTAINMENTS</string>
+</resources>
